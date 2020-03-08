@@ -1,5 +1,5 @@
 ===============================
-CliNER
+CliNER - Python 3.x
 ===============================
 
 Clinical Named Entity Recognition system (CliNER) is an open-source natural language processing system for named entity recognition in clinical text of electronic health records. CliNER system is designed to follow best practices in clinical concept extraction, as established in i2b2 2010 shared task.
